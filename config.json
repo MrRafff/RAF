@@ -2,7 +2,7 @@
     "token": "MTIzNDUzNDg3MTEwNDQ5MTUzMQ.GHy5QA.jMTzXtL8tjFqNiZBJtslLybjVSJ18wEd2vW5Fc",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+    "mongodbUri": "mongodb+srv://codex-in3:codex-in3@codex-in3.vkpkp.mongodb.net/?retryWrites=true&w=majority",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
